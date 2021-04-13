@@ -10,6 +10,6 @@ const routes = [
 
 export default createRouter({
     // mode: "history",
-    history: createWebHistory(), // "/rootPath/#/""
+    history: createWebHistory('/vite-starter/#/'), // "/rootPath/#/""
     routes
 });
