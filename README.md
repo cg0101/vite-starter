@@ -1,6 +1,6 @@
 # vite-starter
 
-wirte app desc
+Starter kit with zero-config for building a app in Vite, featuring Jest, Prettier, TSLint,and more!
 
 # preview
 
